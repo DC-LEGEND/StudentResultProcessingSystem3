@@ -1,0 +1,14 @@
+C:\Users\DELL\Pictures\IntelliJ Project folder\StudentResultProcessingSystem\StudentResultProcessingSystem\bin\Debug\net9.0\StudentResultProcessingSystem.exe
+C:\Users\DELL\Pictures\IntelliJ Project folder\StudentResultProcessingSystem\StudentResultProcessingSystem\bin\Debug\net9.0\StudentResultProcessingSystem.deps.json
+C:\Users\DELL\Pictures\IntelliJ Project folder\StudentResultProcessingSystem\StudentResultProcessingSystem\bin\Debug\net9.0\StudentResultProcessingSystem.runtimeconfig.json
+C:\Users\DELL\Pictures\IntelliJ Project folder\StudentResultProcessingSystem\StudentResultProcessingSystem\bin\Debug\net9.0\StudentResultProcessingSystem.dll
+C:\Users\DELL\Pictures\IntelliJ Project folder\StudentResultProcessingSystem\StudentResultProcessingSystem\bin\Debug\net9.0\StudentResultProcessingSystem.pdb
+C:\Users\DELL\Pictures\IntelliJ Project folder\StudentResultProcessingSystem\StudentResultProcessingSystem\obj\Debug\net9.0\StudentResultProcessingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Pictures\IntelliJ Project folder\StudentResultProcessingSystem\StudentResultProcessingSystem\obj\Debug\net9.0\StudentResultProcessingSystem.AssemblyInfoInputs.cache
+C:\Users\DELL\Pictures\IntelliJ Project folder\StudentResultProcessingSystem\StudentResultProcessingSystem\obj\Debug\net9.0\StudentResultProcessingSystem.AssemblyInfo.cs
+C:\Users\DELL\Pictures\IntelliJ Project folder\StudentResultProcessingSystem\StudentResultProcessingSystem\obj\Debug\net9.0\StudentResultProcessingSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Pictures\IntelliJ Project folder\StudentResultProcessingSystem\StudentResultProcessingSystem\obj\Debug\net9.0\StudentResultProcessingSystem.dll
+C:\Users\DELL\Pictures\IntelliJ Project folder\StudentResultProcessingSystem\StudentResultProcessingSystem\obj\Debug\net9.0\refint\StudentResultProcessingSystem.dll
+C:\Users\DELL\Pictures\IntelliJ Project folder\StudentResultProcessingSystem\StudentResultProcessingSystem\obj\Debug\net9.0\StudentResultProcessingSystem.pdb
+C:\Users\DELL\Pictures\IntelliJ Project folder\StudentResultProcessingSystem\StudentResultProcessingSystem\obj\Debug\net9.0\StudentResultProcessingSystem.genruntimeconfig.cache
+C:\Users\DELL\Pictures\IntelliJ Project folder\StudentResultProcessingSystem\StudentResultProcessingSystem\obj\Debug\net9.0\ref\StudentResultProcessingSystem.dll
